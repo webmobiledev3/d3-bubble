@@ -1,5 +1,7 @@
 # visjs-bubble
 This is Bubble chart using Vis.js.
+
+In this project, I added dragging, moving, zooming, clustering functionalities.
 ## Run
 You can run this project using Xampp or Wamp server.
 ## VisJS
